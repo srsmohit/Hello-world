@@ -1,0 +1,24 @@
+Simple radio buttons ============
+
+<?php
+$options=array('Individual'=>'Individual','Company'=>'Company');
+$attributes=array('legend'=>false, 'default'=>'Individual');
+
+echo $this->Form->radio('account_type', $options, $attributes);
+?>
+
+
+
+
+
+Radio buttons, one below the other ==============
+
+
+<?php
+$options=array('Individual'=>'Individual','Company'=>'Company');
+$attributes=array('legend'=>false, 'default'=>'Individual',  'between'=>'<dl><dt>',
+ 'after'=>'</dl></dt>',
+ 'separator'=>'</dt><dt>' );
+
+echo $this->Form->radio('account_type', $options, $attributes);
+?>

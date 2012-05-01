@@ -1,0 +1,34 @@
+https://groups.google.com/forum/?fromgroups#!topic/adwords-api/KhwfQnYEhMQ
+http://code.google.com/apis/adwords/docs/sandbox.html
+http://code.google.com/apis/adwords/docs/reference/latest/TargetingIdeaService.html
+
+Google adwords monthly stats
+
+http://code.google.com/apis/adwords/docs/sandbox.html
+http://www.gowrisankar.com/content/working-google-adwords-sandbox-mode
+http://code.google.com/apis/checkout/developer/Google_Checkout_Basic_HTML_Sandbox.html
+http://code.google.com/apis/adwords/docs/developer/adwords_api_report_keyword.html
+
+
+http://www.google.com/intl/en/adwords/myclientcenter/		( pankaj@srs-infosystems.com	pankaj12345 )
+- Then use the API by setting the required parameter in Auth.ini
+
+https://support.google.com/adwordsapi/bin/answer.py?hl=en&answer=15104
+http://code.google.com/apis/adwords/docs/
+https://groups.google.com/forum/?fromgroups#!topic/adwords-api/KhwfQnYEhMQ
+
+========================================================================================
+Twitter limitation ( 15 pages - 1500 records, then show "Invalid query" error msg, though when the query is executed manually, it gives results )
+
+http://kenai.com/projects/twitterapime/pages/Home
+https://dev.twitter.com/discussions/614
+
+==============================================
+Twitter API ( working )
+http://code.google.com/p/otterapi/wiki/Resources
+
+Youtube API
+https://developers.google.com/youtube/2.0/developers_guide_php
+
+Google Blog Search
+https://developers.google.com/blog-search/v1/jsondevguide
