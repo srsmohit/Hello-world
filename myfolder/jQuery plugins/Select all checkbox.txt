@@ -1,8 +1,0 @@
-$('#<main_checkbox_id>').click(function() {
-	$(':checkbox').each(function() {
-		if($('#select_checkbox').is(':checked'))
-			this.checked = true;
-		else
-			this.checked = false;
-	});
-});
